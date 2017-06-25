@@ -8,6 +8,7 @@ public class Main
     public static void main(String[] args){
         Scanner scan = new Scanner(System.in);
         int a = 1;
+        //test
         if(!scan.hasNextInt()){
         	System.out.println("ÕˆÝ”ÈëÕý´_”µ×Ö");
         }else{
